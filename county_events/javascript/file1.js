@@ -1,0 +1,1 @@
+alert("Hello Events Page");
