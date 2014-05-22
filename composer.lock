@@ -385,12 +385,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "e9d28420ba910f7da057fdb6758f561dbafd885c"
+                "reference": "50c587dbc5002cf4588375207fe66cbf003b42fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/e9d28420ba910f7da057fdb6758f561dbafd885c",
-                "reference": "e9d28420ba910f7da057fdb6758f561dbafd885c",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/50c587dbc5002cf4588375207fe66cbf003b42fb",
+                "reference": "50c587dbc5002cf4588375207fe66cbf003b42fb",
                 "shasum": ""
             },
             "require": {
@@ -420,7 +420,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2014-04-29 22:23:32"
+            "time": "2014-05-21 21:46:33"
         }
     ],
     "packages-dev": [

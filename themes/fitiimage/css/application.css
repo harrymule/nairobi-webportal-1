@@ -338,7 +338,7 @@ P.arrow.grey-arrow I:hover {
 /*********** HEADER CSS ************/
  .row[role="header"] {
     width: 100%;
-    background: url("../images/ncc27.jpg");
+    background: url("../images/NCC-11.jpg");
     background-size: cover;
     background-position: center 75%;
     height: 250px;
@@ -578,7 +578,7 @@ border-radius: 50%;*/
     border-radius: 3px;
     margin: 1em 0;
     padding: 2em;
-    font-family: Raleway, sans-serif;
+    /*font-family: Raleway, sans-serif;*/
     font-size: 1.5em;
     font-weight: 300;
     color: #444;

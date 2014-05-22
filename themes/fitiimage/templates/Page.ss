@@ -20,9 +20,8 @@
 <html lang="$ContentLocale">
 
 <head>
-    <title>$SiteConfig.Title | $Title</title>
-
     <!-- Site Necessities -->
+    <title>$SiteConfig.Title | $Title</title>
     <% base_tag %>
     $MetaTags(false)
     <meta charset="utf-8">

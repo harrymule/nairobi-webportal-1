@@ -13,8 +13,7 @@
 	height:auto !important;
 	padding: 0 8px;
 	line-height: 24px;
-	background-color: #d00;
-	
+	background-color: lighten($color-dark-bg,10%);
 	@include background-image(
 		linear-gradient(lighten($color-dark-bg,20%), $color-dark-bg)
 	);
